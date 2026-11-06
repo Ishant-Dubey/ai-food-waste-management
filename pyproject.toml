@@ -1,0 +1,7 @@
+[project]
+name = "ai-food-waste-management"
+version = "0.1.0"
+description = "An AI-based system that uses machine learning to predict food waste quantities and provide donation recommendations, helping businesses minimize food waste, improve inventory management, and promote sustainable food consumption."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
