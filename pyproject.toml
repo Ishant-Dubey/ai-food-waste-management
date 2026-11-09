@@ -4,4 +4,11 @@ version = "0.1.0"
 description = "An AI-based system that uses machine learning to predict food waste quantities and provide donation recommendations, helping businesses minimize food waste, improve inventory management, and promote sustainable food consumption."
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.4",
+    "pandas>=3.1.1",
+    "scikit-learn>=1.9.1",
+    "seaborn>=0.13.2",
+    "streamlit>=1.67.0",
+]
